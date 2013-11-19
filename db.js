@@ -9,4 +9,4 @@ var Todo = new Schema({
 
 mongoose.model( 'Todo', Todo );
 
-mongoose.connect( 'mongodb://localhost/express-todo' );
+mongoose.connect( 'mongodb://ALTzpabjzDmN:ZZmSAuConmKJ@dbs001.mongosoup.de/cc_ALTzpabjzDmN' );
